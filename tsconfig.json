@@ -2,6 +2,7 @@
   "compilerOptions": {
     "target": "ES6",
     "module": "CommonJS",
+    "lib": ["es2016", "dom"],
     "rootDir": "./src",
     "outDir": "./prod",
     "strict": true,
